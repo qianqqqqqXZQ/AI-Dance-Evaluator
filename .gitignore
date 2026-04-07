@@ -1,0 +1,27 @@
+### Python ###
+# Bytecode and cache files generated during execution
+__pycache__/
+*.py[cod]
+*$py.class
+
+### Media & Large Data ###
+# Large video and data files (Avoid uploading to GitHub due to size limits)
+*.mp4
+*.avi
+*.mov
+data/
+
+### Environments ###
+# Python virtual environments (Dependencies should be managed via requirements.txt)
+venv/
+.env
+
+### IDE / Editors ###
+# Editor-specific configurations (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+
+### System Files ###
+# OS-specific metadata files (macOS/Windows junk)
+.DS_Store
+Thumbs.db
